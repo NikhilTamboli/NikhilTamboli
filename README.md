@@ -11,7 +11,7 @@
 ### Worked with
 
 <p>
-    <code><img height="32" width="32" src="images/icons/nodejs-original.svg"><img height="32" width="32" src="images/icons/git-original.svg"><img height="32" width="32" src="images/icons/typescript-original.svg"><img height="32" width="32" src="images/icons/javascript-original.svg"><img height="32" width="32" src="images/icons/html5-original.svg"><img height="32" width="32" src="images/icons/css3-original.svg"><img height="32" width="32" src="images/icons/linux-original.svg"><img height="32" width="32" src="images/icons/python-plain.svg"><img height="32" width="32" src="images/icons/c++-plain.svg"><img height="32" width="32" src="images/icons/java-plain.svg"></code>
+    <code><img height="32" width="32" src="images/icons/nodejs-original.svg"><img height="32" width="32" src="images/icons/git-original.svg"><img height="32" width="32" src="images/icons/typescript-original.svg"><img height="32" width="32" src="images/icons/javascript-original.svg"><img height="32" width="32" src="images/icons/html5-original.svg"><img height="32" width="32" src="images/icons/css3-original.svg"><img height="32" width="32" src="images/icons/linux-original.svg"><img height="32" width="32" src="images/icons/python-original.svg"><img height="32" width="32" src="images/icons/c-original.svg"><img height="32" width="32" src="images/icons/java-original.svg"></code>
 </p>
 
 ### Experimented with
