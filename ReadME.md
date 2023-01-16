@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhiltamboli" alt="nikhiltamboli" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/lazieventions" target="blank"><img src="https://img.shields.io/twitter/follow/lazieventions?logo=twitter&style=for-the-badge" alt="lazieventions" /></a> </p>
+<p align="left"> <a href="[https://twitter.com/lazieventions](https://www.linkedin.com/in/nikhil-tamboli-616055195/)" target="blank"><img src="https://img.shields.io/twitter/follow/lazieventions?logo=twitter&style=for-the-badge" alt="lazieventions" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJS and Express**
 
@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://dev.to/nikhiltamboli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nikhiltamboli" height="30" width="40" /></a>
 <a href="https://twitter.com/lazieventions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lazieventions" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nikhil tamboli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil tamboli" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nikhil-tamboli-616055195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil tamboli" height="30" width="40" /></a>
 <a href="https://fb.com/nikhil tamboli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nikhil tamboli" height="30" width="40" /></a>
 <a href="https://instagram.com/lazieventions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lazieventions" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/lazieventions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lazieventions" height="30" width="40" /></a>
