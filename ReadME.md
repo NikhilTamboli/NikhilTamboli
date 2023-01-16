@@ -29,7 +29,7 @@
 
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhiltamboli&show_icons=true&locale=en&layout=compact" alt="nikhiltamboli" /></p>
-<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhiltamboli&show_icons=true&locale=en" alt="nikhiltamboli" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhiltamboli&" alt="nikhiltamboli" /></p>
